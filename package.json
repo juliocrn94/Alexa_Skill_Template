@@ -1,0 +1,14 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "First Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Renteria",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.8.0"
+  }
+}
